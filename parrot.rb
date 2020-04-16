@@ -8,3 +8,4 @@ end
 def parrot(call="Pretty bird!")
   puts call
   return call
+end
