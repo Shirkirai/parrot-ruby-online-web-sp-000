@@ -6,4 +6,4 @@ def parrot
 end
 
 def parrot(call="Pretty bird!")
-  puts 
+  puts
