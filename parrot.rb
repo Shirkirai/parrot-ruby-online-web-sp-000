@@ -4,3 +4,5 @@ def parrot(*p)
   puts "Squawk!"|| p
   return "Squawk!" || p
 end
+
+def parrot(call = "Squawk!")
