@@ -3,6 +3,3 @@
 def parrot("Squawk")
   puts "Squawk!"
 end
-
-def parrot
-  if
