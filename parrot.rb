@@ -3,7 +3,3 @@
 def parrot
   puts "Squawk!"
 end
-
-def parrot(bird_call = "Squawk")
-  puts "#{bird_call}!"
-end
