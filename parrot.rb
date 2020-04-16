@@ -5,4 +5,10 @@ def parrot(*p)
   return "Squawk!" || p
 end
 
-def parrot(call = "Squawk!")
+def parrot(a = "Squawk!")
+  if parrot() == "Squawk!"
+    return parrot()
+  else
+    return "Pretty bird!"
+  end
+end
